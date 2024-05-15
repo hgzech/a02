@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "a02"
+  site-url: "https://hgzech.github.io/a02"
+  description: "Monitoring and data analysis for the trr265 A02 project."
+  repo-branch: main
+  repo-url: "https://github.com/hgzech/a02"
