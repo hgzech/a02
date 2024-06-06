@@ -1,0 +1,9 @@
+website:
+  sidebar:
+    contents:
+      - index.ipynb
+      - 00_data_provider.ipynb
+      - 01_extract_n_back_frames.ipynb
+      - section: archive
+        contents:
+          - archive/01_extract_n_back_frames_pre_artdesign.ipynb
